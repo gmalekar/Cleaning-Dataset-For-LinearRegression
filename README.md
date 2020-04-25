@@ -11,3 +11,9 @@ The monthly sales data for all of the Pawdacity stores for the year 2010.
 NAICS data on the most current sales of all competitor stores where total sales is equal to 12 months of sales.
 A partially parsed data file that can be used for population numbers.
 Demographic data (Households with individuals under 18, Land Area, Population Density, and Total Families) for each city and county in the state of Wyoming. For people who are unfamiliar with the US city system, a state contains counties and counties contains one or more cities.
+
+#### Please refer to this link for the power query I used to clean and merge the data.
+https://github.com/gmalekar/Cleaning-Dataset-For-LinearRegression/blob/master/DatasetCleaning.pbix
+
+#### Please refer to this for the solution.
+https://github.com/gmalekar/Cleaning-Dataset-For-LinearRegression/blob/master/Cleaning%20Data%20Girish.pdf
